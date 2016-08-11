@@ -1,0 +1,75 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-size: 150%;
+}
+
+p { 
+	color:white;
+	font-size: 25px;
+}
+
+h2{
+    color:pink;
+    font-size: 150% ;
+}
+
+h3{
+    color:white;
+    font-size: 175% ;
+}
+
+h4{
+    color:white;
+    font-size: 175% ;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+img {
+    width: 10%;
+    height: auto;
+}
+
+div {
+    color: white;
+    font-size 30px;
+}
+
+
+
+img {
+    width: 50%;
+    height: auto;
+}
+
+.center{
+    color:pink;
+    font-size: 25px;
+}
+
+
+ #map {
+   width: 100%;
+   height: 400px;
+   background-color: grey;
+ }
+
+
+h5 {
+    font-size: 120%;
+}
+
+
+ 
+
+
+
+
+
+
