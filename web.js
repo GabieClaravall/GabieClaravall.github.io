@@ -14,7 +14,7 @@ function myFunction() {
 }
 
 function learnaboutme() {
-    alert("Welcome")
+    alert("Welcome, learn more about me!")
 }
 
     
